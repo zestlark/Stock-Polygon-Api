@@ -44,7 +44,7 @@ const updateStockPrices = async (stock) => {
     const updatedPrice = (parseFloat(openPrice) + parseFloat(randomValue)).toFixed(2);
     stockData[stock].openPrice = updatedPrice;
     await writeInfile()
-    console.log('updated stock ' + stock + ' price ' + updatedPrice);
+    // console.log('updated stock ' + stock + ' price ' + updatedPrice);
 };
 
 
