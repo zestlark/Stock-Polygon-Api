@@ -1,0 +1,102 @@
+{
+  "AAPL": {
+    "openPrice": "258.62",
+    "refreshInterval": 1,
+    "date": "2023-01-09"
+  },
+  "MSFT": {
+    "openPrice": "3.89",
+    "refreshInterval": 3,
+    "date": "2023-01-09"
+  },
+  "GOOGL": {
+    "openPrice": "-655.72",
+    "refreshInterval": 1,
+    "date": "2023-01-09"
+  },
+  "AMZN": {
+    "openPrice": "-318.20",
+    "refreshInterval": 1,
+    "date": "2023-01-09"
+  },
+  "SNAP": {
+    "openPrice": "-416.27",
+    "refreshInterval": 2,
+    "date": "2023-01-09"
+  },
+  "TSLA": {
+    "openPrice": "-319.39",
+    "refreshInterval": 1,
+    "date": "2023-01-09"
+  },
+  "NVDA": {
+    "openPrice": "131.59",
+    "refreshInterval": 2,
+    "date": "2023-01-09"
+  },
+  "NFLX": {
+    "openPrice": "314.93",
+    "refreshInterval": 4,
+    "date": "2023-01-09"
+  },
+  "CRM": {
+    "openPrice": "50.42",
+    "refreshInterval": 3,
+    "date": "2023-01-09"
+  },
+  "ADBE": {
+    "openPrice": "284.98",
+    "refreshInterval": 2,
+    "date": "2023-01-09"
+  },
+  "PYPL": {
+    "openPrice": "88.80",
+    "refreshInterval": 2,
+    "date": "2023-01-09"
+  },
+  "INTC": {
+    "openPrice": "-150.97",
+    "refreshInterval": 2,
+    "date": "2023-01-09"
+  },
+  "CSCO": {
+    "openPrice": "10.66",
+    "refreshInterval": 1,
+    "date": "2023-01-09"
+  },
+  "QCOM": {
+    "openPrice": "170.38",
+    "refreshInterval": 4,
+    "date": "2023-01-09"
+  },
+  "IBM": {
+    "openPrice": "141.10",
+    "refreshInterval": 5,
+    "date": "2023-01-09"
+  },
+  "AMD": {
+    "openPrice": "189.24",
+    "refreshInterval": 3,
+    "date": "2023-01-09"
+  },
+  "ORCL": {
+    "openPrice": "-86.43",
+    "refreshInterval": 1,
+    "date": "2023-01-09"
+  },
+  "TXN": {
+    "openPrice": "266.20",
+    "refreshInterval": 4,
+    "date": "2023-01-09"
+  },
+  "MU": {
+    "openPrice": "67.38",
+    "refreshInterval": 5,
+    "date": "2023-01-09"
+  },
+  "UBER": {
+    "openPrice": "290.57",
+    "refreshInterval": 3,
+    "date": "2023-01-09"
+  }
+}
