@@ -1,101 +1,101 @@
 {
   "AAPL": {
-    "openPrice": "258.62",
+    "openPrice": "259.36",
     "refreshInterval": 1,
     "date": "2023-01-09"
   },
   "MSFT": {
-    "openPrice": "3.89",
+    "openPrice": "14.43",
     "refreshInterval": 3,
     "date": "2023-01-09"
   },
   "GOOGL": {
-    "openPrice": "-655.72",
+    "openPrice": "-667.21",
     "refreshInterval": 1,
     "date": "2023-01-09"
   },
   "AMZN": {
-    "openPrice": "-318.20",
+    "openPrice": "-340.37",
     "refreshInterval": 1,
     "date": "2023-01-09"
   },
   "SNAP": {
-    "openPrice": "-416.27",
+    "openPrice": "-423.89",
     "refreshInterval": 2,
     "date": "2023-01-09"
   },
   "TSLA": {
-    "openPrice": "-319.39",
+    "openPrice": "-318.40",
     "refreshInterval": 1,
     "date": "2023-01-09"
   },
   "NVDA": {
-    "openPrice": "131.59",
+    "openPrice": "136.70",
     "refreshInterval": 2,
     "date": "2023-01-09"
   },
   "NFLX": {
-    "openPrice": "314.93",
+    "openPrice": "318.07",
     "refreshInterval": 4,
     "date": "2023-01-09"
   },
   "CRM": {
-    "openPrice": "50.42",
+    "openPrice": "61.09",
     "refreshInterval": 3,
     "date": "2023-01-09"
   },
   "ADBE": {
-    "openPrice": "284.98",
+    "openPrice": "289.98",
     "refreshInterval": 2,
     "date": "2023-01-09"
   },
   "PYPL": {
-    "openPrice": "88.80",
+    "openPrice": "96.48",
     "refreshInterval": 2,
     "date": "2023-01-09"
   },
   "INTC": {
-    "openPrice": "-150.97",
+    "openPrice": "-158.29",
     "refreshInterval": 2,
     "date": "2023-01-09"
   },
   "CSCO": {
-    "openPrice": "10.66",
+    "openPrice": "15.86",
     "refreshInterval": 1,
     "date": "2023-01-09"
   },
   "QCOM": {
-    "openPrice": "170.38",
+    "openPrice": "178.04",
     "refreshInterval": 4,
     "date": "2023-01-09"
   },
   "IBM": {
-    "openPrice": "141.10",
+    "openPrice": "145.46",
     "refreshInterval": 5,
     "date": "2023-01-09"
   },
   "AMD": {
-    "openPrice": "189.24",
+    "openPrice": "194.18",
     "refreshInterval": 3,
     "date": "2023-01-09"
   },
   "ORCL": {
-    "openPrice": "-86.43",
+    "openPrice": "-93.59",
     "refreshInterval": 1,
     "date": "2023-01-09"
   },
   "TXN": {
-    "openPrice": "266.20",
+    "openPrice": "266.50",
     "refreshInterval": 4,
     "date": "2023-01-09"
   },
   "MU": {
-    "openPrice": "67.38",
+    "openPrice": "70.91",
     "refreshInterval": 5,
     "date": "2023-01-09"
   },
   "UBER": {
-    "openPrice": "290.57",
+    "openPrice": "301.70",
     "refreshInterval": 3,
     "date": "2023-01-09"
   }
